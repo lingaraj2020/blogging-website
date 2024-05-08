@@ -1,0 +1,13 @@
+node_modules
+dist
+.wrangler
+.dev.vars
+
+# Change them to your taste:
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+bun.lockb
+
+# prisma://accelerate.prisma-data.net/?api_key=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcGlfa2V5IjoiY2E3ZGU5MGEtNTljZC00YTkyLTgwNzAtMjMwZDA5ZWU1MmRiIiwidGVuYW50X2lkIjoiNDAwOTY1NzFhODcxY2Q1YTQzMzQzMzkzN2RiYTI5YWE5NzYxZDk0ZDk0NjYzZjE3YjM1Y2JkMWUzNDlmNzFiYyIsImludGVybmFsX3NlY3JldCI6ImM2NGExZjMzLWI3MTUtNDEzNy1iNjM0LWY0ZmRhZjYyM2Q2NCJ9.wmUSX4CtGY35_KBVZFheEH98gdF37FtBBzLIflv7GO4
+# lingarajsecret
